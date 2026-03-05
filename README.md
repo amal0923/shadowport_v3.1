@@ -74,13 +74,13 @@ sudo cp shadowport_v3.py /usr/bin/shadowport
 Run the script with a target IP or domain:
 
 ```bash
-shadowport_v3.py <target-ip->
+shadowport <target-ip->
 ```
 
 Example:
 
 ```bash
-shadowport_v3.py 192.168.1.10
+shadowport 192.168.1.10
 ```
 
 The script will:  
