@@ -63,6 +63,10 @@ Make the main script executable:
 chmod +x shadowport_v3.py
 ```
 
+```bash
+sudo cp shadowport_v3.py /usr/bin/shadowport
+```
+
 ---
 
 ## ▶️ Usage
@@ -70,13 +74,13 @@ chmod +x shadowport_v3.py
 Run the script with a target IP or domain:
 
 ```bash
-python3 shadowport_v3.py <target-ip->
+shadowport_v3.py <target-ip->
 ```
 
 Example:
 
 ```bash
-python3 shadowport_v3.py 192.168.1.10
+shadowport_v3.py 192.168.1.10
 ```
 
 The script will:  
