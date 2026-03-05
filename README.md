@@ -131,7 +131,7 @@ Contributions, feature suggestions, and bug reports are welcome!
 - Make your changes  
 - Submit a Pull Request  
 
-Contact me via [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) for collaborations.  
+Contact me via [LinkedIn](https://www.linkedin.com/in/amal-raj-k-a066b6375/) for collaborations.  
 
 ---
 
