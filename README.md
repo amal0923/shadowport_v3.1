@@ -46,7 +46,7 @@ Make sure these tools are installed on your system:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shadowport_v3.1.git
+git clone https://github.com/amal0923/shadowport_v3.1.git
 cd shadowport_v3.1
 ```
 
@@ -70,7 +70,7 @@ chmod +x shadowport_v3.py
 Run the script with a target IP or domain:
 
 ```bash
-python3 shadowport_v3.py <target-ip-or-domain>
+python3 shadowport_v3.py <target-ip->
 ```
 
 Example:
